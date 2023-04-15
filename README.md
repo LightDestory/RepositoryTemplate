@@ -6,7 +6,7 @@
 <div align="center">
 
   <a href="https://github.com/LightDestory/RepositoryTemplate">
-    <img src=".github/assets/images/logo_placeholder.png" alt="Preview" width="90%">
+    <img src=".github/assets/images/presentation_image.png" alt="Preview" width="90%">
   </a>
 
   <h2 align="center">PROJECT_NAME</h2>
