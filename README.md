@@ -70,17 +70,25 @@ PROJECT_LONG_DESCRIPTION
 
 START_INFO
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Prerequisites
 
 PREQ_INFO
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Installation
 
 INSTALL_INFO
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Usage
 
 USAGE_INFO
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Notes
 
